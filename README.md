@@ -42,9 +42,9 @@ There are several factors that can be used to evaluate the performance of a cric
 **A percentile has been made with the highest batting strength being 10%**
 
 ### Contributors-
-Aditya Pachpande/
-Aaryan Shah/
-Smayan Yambal/ 
+Aditya Pachpande<br />
+Aaryan Shah<br />
+Smayan Yambal<br />
 
 Link to Project:- https://docs.google.com/spreadsheets/d/1RCmn6XXh-bUhStYrwT8-bMc0UOVQUr7ZeTWUqzH0jQY/edit?usp=sharing
 
