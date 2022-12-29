@@ -5,7 +5,7 @@ There are various ways to calculate a cricket batting index, and different metho
 
 The purpose of a cricket batting index is to provide a single, comprehensive measure of a batsman's performance that takes into account multiple aspects of their ability to score runs. It can be used to compare the performance of different batsmen, to rank batsmen within a team or league, or to evaluate the overall strength of a team's batting lineup.
 
-#IPL 2022 Performance Cricket Index 
+# IPL 2022 Performance Cricket Index 
 This cricket index has been made using multiple layers of weighted models
 What is a weighted model?
 A weighted model is a statistical model in which the contributions of different variables to the model's prediction are assigned different weights, or coefficients. These weights reflect the relative importance or influence of each variable on the outcome of the model.
