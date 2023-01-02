@@ -21,3 +21,5 @@ There are several factors that can be used to evaluate the performance of a cric
   3. For the Stability and Consistency we can look for the number of 50s 100s and Avg score including the not outs. 
   
   4. For the Final Batting Strength we have taken an average of all 3 factors and we have also reduced outliers by adding a condition for the number of balls faced.
+
+https://docs.google.com/spreadsheets/d/1RCmn6XXh-bUhStYrwT8-bMc0UOVQUr7ZeTWUqzH0jQY/edit#gid=492532668
