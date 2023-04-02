@@ -15,7 +15,7 @@ For example, in a linear regression model, the weights are the coefficients that
 Weighted models can be useful when some variables are more important or relevant than others in predicting the outcome of interest. By assigning higher weights to these variables, the model can better capture the relationship between the variables and the outcome.
 Weighted models can also be used to downweight the influence of outliers or extreme values in the data, which can help to improve the accuracy and stability of the model.
 
-**A percentile has been made with the highest batting strength being 10%**
+**A percentile has been made with the highest batting strength being 10 percentile**
 
 ### Contributors-
 Aditya Pachpande<br />
